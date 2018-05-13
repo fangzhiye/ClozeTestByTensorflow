@@ -1,0 +1,8 @@
+*.data
+*.vec
+*.meta
+*.tgz
+*.index
+machine_reading.model-0.data-00000-of-00001
+/CBTest
+/Model
